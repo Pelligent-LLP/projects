@@ -11,3 +11,5 @@
 9. Pdf viewer
 10. Unit conversion application
 11. Resource Library
+12. Notes taking platform
+13. Personality test
