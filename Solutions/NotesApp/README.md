@@ -1,7 +1,7 @@
 # Resource Library
 An intuitive, privacy-first, self-hosted, notes-taking application.
 
-# Features
+## Features
 - Choice to host data storage
     - Blob storage in Cloud platforms, File Storage (Google, Microsoft), on-premises FileSystems, etc. 
     - Backups in Databases. Yet to choose whether to use NoSQL, or SQl-based engine

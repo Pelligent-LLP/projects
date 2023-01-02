@@ -1,7 +1,7 @@
 # Resource Library
 A solution to provide highly relative and trusted resources for a specific topic within a subject.
 
-# Features
+## Features
 - Resource Management - ADD/UPDATE/REMOVE/LIST.
 - Categorization of resources, tagging
 - Graphs of inter-dependent topics, tags, resources
