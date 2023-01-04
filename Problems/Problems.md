@@ -1,7 +1,7 @@
 # Problem Statements
 
 1. Kafka Browser
-2. Randomised Data Generator
+2. [Randomised Data Generator](../Solutions/RandomisedDataGenerator/README.md)
 3. Postman plugin
 4. Secuity and Stress testing
 5. A Vaadin application
