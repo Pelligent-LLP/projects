@@ -24,4 +24,4 @@ A utility to generate highly relative data for a given subject, topic or domain.
     - Ability to aggregate data for analytics over a set rather than individuals. Belief is - a trend seen as a group is also applicable to some-percentage to individuals as well. Individual targetting of products or services should not happen.
 
 ## References
-    - [Techopedia: Test Data Generator](https://www.techopedia.com/definition/30405/test-data-generator#:~:text=A%20test%20data%20generator%20is,to%20create%20a%20desired%20result)
+[Techopedia: Test Data Generator](https://www.techopedia.com/definition/30405/test-data-generator#:~:text=A%20test%20data%20generator%20is,to%20create%20a%20desired%20result)
