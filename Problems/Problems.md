@@ -12,3 +12,4 @@
 10. [Resource Library](../Solutions/ResourceLibrary/README.md)
 11. [Notes Taking Application](../Solutions/NotesApp/README.md)
 12. [Psychometric Analysis System](../Solutions/PsychometricAnalysisSystem/README.md)
+13. [OctoSuite UI: OpenSource Investigation App using Octosuite](../Solutions/OctosuiteUI/README.md)
